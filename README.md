@@ -1,1 +1,3 @@
-# saa-co3-questions.github.io
+theme: jekyll-theme-minimal
+title: SAA CO3's homepage
+description: Questions in Quiz Format
